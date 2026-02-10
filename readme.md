@@ -4,6 +4,8 @@
 
 This is a bash script that analyses the Nginx access log and prints the top 5 IP addresses with the most requests, the top 5 most requested paths, the top 5 response status codes, and the top 5 user agents. I completed this project for: 1) my personal learning purposes, 2) finishing this project from [roadmap.sh](https://roadmap.sh/projects/nginx-log-analyser)
 
+>> [project URL](https://roadmap.sh/projects/nginx-log-analyser) <<
+
 ## Usage
 
 ```bash
